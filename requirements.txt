@@ -14,8 +14,6 @@ chardet==3.0.4
 clarifai==2.6.2
 click==7.1.2
 colorama==0.4.4
-conda==4.9.2
-conda-package-handling==1.7.0
 configparser==3.8.1
 cryptography==2.9.2
 cssselect==1.1.0
